@@ -59,7 +59,7 @@ Your actual filenames may differ.
 ### 1. Clone the repository
 
 ``` bash
-git clone <your-repository-url>
+git clone <https://github.com/Murli333/Tiny-Llama-chatbot-v1->
 cd ChatBotv1
 ```
 
